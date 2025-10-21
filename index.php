@@ -38,3 +38,5 @@ return $str;
 }
 $str = 'this is a dog and blabla';
 echo dotRep($block, $str);
+
+echo"git hub";
